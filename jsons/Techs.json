@@ -227,7 +227,7 @@
   {
     "columnNumber": 5,
     "era": "Medieval era",
-    "techCost": 580,
+    "techCost": 928,
     "buildingCost": 130,
     "wonderCost": 280,
     "techs": [
@@ -280,7 +280,7 @@
     "techs": [
       {
         "name": "Compass",
-        "cost": 870,
+        "cost": 1349,
         "row": 1,
         "prerequisites": [
           "Optics"
@@ -298,7 +298,7 @@
           "Compass"
         ],
         "quote": "'Joyfully to the breeze royal Odysseus spread his sail, and with his rudder skillfully he steered.' - Homer",
-        "cost": 870
+        "cost": 1131
       },
       {
         "name": "Education",
@@ -312,7 +312,7 @@
           "Enables Research agreements"
         ],
         "quote": "'Education is the best provision for old age.' - Aristotle",
-        "cost": 3062
+        "cost": 4440
       },
       {
         "name": "Chivalry",
@@ -322,7 +322,7 @@
           "Guilds"
         ],
         "quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory",
-        "cost": 3062
+        "cost": 4440
       },
       {
         "name": "Machinery",
@@ -334,7 +334,7 @@
           "Improves movement speed on roads"
         ],
         "quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson",
-        "cost": 3062
+        "cost": 4440
       },
       {
         "name": "Physics",
@@ -351,7 +351,7 @@
           "Metal Casting"
         ],
         "quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man",
-        "cost": 3062
+        "cost": 4440
       }
     ]
   },
