@@ -235,8 +235,7 @@
         "name": "Theology",
         "row": 2,
         "prerequisites": [
-          "Philosophy",
-          "You... shall not... PASS!!"
+          "Philosophy"
         ],
         "quote": "'Three things are necessary for the salvation of man: to know what he ought to believe; to know what he ought to desire; and to know what he ought to do' - St. Thomas Aquinas"
       },
@@ -244,8 +243,7 @@
         "name": "Civil Service",
         "row": 5,
         "prerequisites": [
-          "Philosophy",
-          "You... shall not... PASS!!"
+          "Philosophy"
         ],
         "uniques": [
           "Enables Open Borders agreements"
@@ -256,8 +254,7 @@
         "name": "Guilds",
         "row": 7,
         "prerequisites": [
-          "Currency",
-          "You... shall not... PASS!!"
+          "Currency"
         ],
         "uniques": [
           "Enables conversion of city production to [Gold]"
@@ -268,27 +265,9 @@
         "name": "Metal Casting",
         "row": 9,
         "prerequisites": [
-          "Engineering",
-          "You... shall not... PASS!!"
+          "Engineering"
         ],
         "quote": "'When pieces of bronze or gold or iron break, the metal-smith welds them together again in the fire, and the bond is established.' - Sri Guru Granth Sahib"
-      },
-      {
-        "name": "You... shall not... PASS!!",
-        "row": 6,
-        "prerequisites": [
-          "Engineering",
-          "Philosophy",
-          "Drama and Poetry",
-          "Currency",
-          "Iron Working"
-        ],
-        "cost": 999999999,
-        "uniques": [
-          "Only available <before discovering [Agriculture]>",
-          "Can be continually researched"
-        ],
-        "quote": "NO! You shall not pass into the Renaissance."
       }
     ]
   },
@@ -304,8 +283,7 @@
         "cost": 580,
         "row": 1,
         "prerequisites": [
-          "Optics",
-          "You... shall not... PASS!!"
+          "Optics"
         ],
         "quote": "'I find the great thing in this world is not so much where we stand, as in what direction we are moving.' - Oliver Wendell Holmes"
       },
@@ -384,6 +362,29 @@
     "buildingCost": 999200,
     "wonderCost": 999500,
     "techs": [
+      {
+        "name": "You... shall not... PASS!!",
+        "row": 2,
+        "prerequisites": [
+          "Theology",
+          "Civil Service",
+          "Guilds",
+          "Metal Casting",
+          "Compass",
+          "Astronomy",
+          "Education",
+          "Chivalry",
+          "Machinery",
+          "Physics",
+          "Steel"
+        ],
+        "cost": 999999999,
+        "uniques": [
+          "Only available <before discovering [Agriculture]>",
+          "Can be continually researched"
+        ],
+        "quote": "NO! You shall not pass into the Renaissance."
+      },
       {
         "name": "Acoustics",
         "row": 4,
@@ -862,7 +863,7 @@
           "Mobile Tactics",
           "Advanced Ballistics"
         ],
-        "quote": "'Every particle of matter is attracted to or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
+        "quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
       },
       {
         "name": "Nuclear Fusion",
