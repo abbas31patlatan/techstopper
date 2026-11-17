@@ -227,7 +227,7 @@
   {
     "columnNumber": 5,
     "era": "Medieval era",
-    "techCost": 220,
+    "techCost": 264,
     "buildingCost": 130,
     "wonderCost": 280,
     "techs": [
@@ -274,7 +274,7 @@
   {
     "columnNumber": 6,
     "era": "Medieval era",
-    "techCost": 290,
+    "techCost": 348,
     "buildingCost": 150,
     "wonderCost": 320,
     "techs": [
@@ -312,7 +312,7 @@
           "Enables Research agreements"
         ],
         "quote": "'Education is the best provision for old age.' - Aristotle",
-        "cost": 1160
+        "cost": 1392
       },
       {
         "name": "Chivalry",
@@ -322,7 +322,7 @@
           "Guilds"
         ],
         "quote": "'Whoso pulleth out this sword of this stone and anvil, is rightwise king born of all England.' - Malory",
-        "cost": 1160
+        "cost": 1392
       },
       {
         "name": "Machinery",
@@ -334,7 +334,7 @@
           "Improves movement speed on roads"
         ],
         "quote": "'The press is the best instrument for enlightening the mind of man, and improving him as a rational, moral and social being.' - Thomas Jefferson",
-        "cost": 1160
+        "cost": 1392
       },
       {
         "name": "Physics",
@@ -351,7 +351,7 @@
           "Metal Casting"
         ],
         "quote": "'John Henry said to his Captain, / 'A man ain't nothin' but a man, / And before I'll let your steam drill beat me down, / I'll die with the hammer in my hand.'' - Anonymous: The Ballad of John Henry, the Steel-Drivin' Man",
-        "cost": 1160
+        "cost": 1392
       }
     ]
   },
